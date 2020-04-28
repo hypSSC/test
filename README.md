@@ -1,3 +1,3 @@
 # test
-test repository
+test repository\n
 contains random blender files
